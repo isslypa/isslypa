@@ -45,7 +45,7 @@
 
 - **Discord**: [Click Here to Join Neptune Community](https://discord.gg/Y3wtcd68WB)
 - **Email**: `isslydev@gmail.com`
-- **GitHub**: [Your GitHub Profile](https://github.com/isslypa)
+- **GitHub**: [Click HERE](https://github.com/isslypa)
 
 ---
 
